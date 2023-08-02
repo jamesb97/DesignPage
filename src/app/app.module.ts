@@ -10,6 +10,8 @@ import { SocialComponent } from './social/social.component';
 import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { SubscribeComponent } from './subscribe/subscribe.component';
+import { SpinnerComponent } from './spinner/spinner.component';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { SubscribeComponent } from './subscribe/subscribe.component';
     SocialComponent,
     AboutComponent,
     ProjectsComponent,
-    SubscribeComponent
+    SubscribeComponent,
+    SpinnerComponent,
+    PageNotFoundComponent
   ],
   imports: [
     BrowserModule,
