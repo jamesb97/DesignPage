@@ -10,7 +10,7 @@ export class SocialComponent implements OnInit {
 
   ngOnInit(): void {}
   Email = 'Email';
-  Emailink = 'zdravko6t5@gmail.com';
+  Emailink = 'Email';
   GitHub = 'https://github.com/jamesb97/';
   GitHubsvg =
     'https://firebasestorage.googleapis.com/v0/b/angulardesigns-aaa7c.appspot.com/o/github.svg?alt=media&token=c8d32d5c-d649-4cc2-b9bf-0cc637650500';
@@ -20,7 +20,7 @@ export class SocialComponent implements OnInit {
   Instagram = 'https://instagram.com/zbozhkov';
   Instagramsvg =
     'https://firebasestorage.googleapis.com/v0/b/angulardesigns-aaa7c.appspot.com/o/instagram.svg?alt=media&token=8a89cff8-07e5-4e8c-bfe2-4aa383ff4351';
-  Twitter = 'https://twitter.com/zdravko6t5';
+  Twitter = 'https://twitter.com/x6t517902/';
   Twittersvg =
     'https://firebasestorage.googleapis.com/v0/b/angulardesigns-aaa7c.appspot.com/o/twitter-brands.svg?alt=media&token=20b27139-a3c4-40d1-ad40-ad015024fcd2';
 }
