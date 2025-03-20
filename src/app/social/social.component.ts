@@ -23,4 +23,7 @@ export class SocialComponent implements OnInit {
   Twitter = 'https://twitter.com/x6t517902/';
   Twittersvg =
     'https://firebasestorage.googleapis.com/v0/b/angulardesigns-aaa7c.appspot.com/o/twitter-brands.svg?alt=media&token=20b27139-a3c4-40d1-ad40-ad015024fcd2';
+  YouTube = 'https://youtube.com/zdravko6t5';
+  YouTubesvg =
+    'https://firebasestorage.googleapis.com/v0/b/angulardesigns-aaa7c.appspot.com/o/8666536_youtube_icon.png?alt=media&token=0e3945af-9f8e-466b-ab91-18dc6e909ae7';
 }
