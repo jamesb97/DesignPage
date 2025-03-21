@@ -245,6 +245,12 @@ footer {
 }
 
 .projects-section {
+  background: linear-gradient(
+    to bottom,
+    #{fade-out($black, 0.9)} 1%,
+    #{fade-out($black, 0.5)} 75%,
+    $black 100%
+  );
   padding: 10rem 0;
   .featured-text {
     padding: 2rem;
